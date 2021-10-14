@@ -1,3 +1,57 @@
-body {
+/*body {
 	font-family: : 'Arial';
 }
+*/
+
+table {
+	width:  100px;
+}
+nav{
+	background-color:rgb(151, 166, 180);
+	height: 60px;
+	text-align: center;
+}
+
+
+
+label.menu {
+	color: white;
+	font-size: 30px;
+	line-height: 59px; 
+	float:left;
+	margin-left:30px;
+}
+
+label.menu:hover{
+	font-size: 35px;
+	
+}
+
+label.logo {
+	color: rgb(2, 2, 2);
+	font-size: 40px;
+	line-height: 55px;
+	
+}
+table.beta,td.beta {
+	border-collapse: collapse;
+	padding: 15px 50px;	
+	width: 12%;
+}
+td.beta a{
+	text-decoration: none;
+	color:white;
+}
+
+td.beta:hover {
+	background-color: rgba(35, 35, 88, 0.904);
+	border-bottom: solid 1.5px rgba(255, 255, 255, 0.37);
+	font-size: 17px;
+}
+table.beta{
+	background-color:rgb(69, 82, 85);
+
+/*	
+body {
+	font-family: : 'Arial';
+} */

@@ -1,0 +1,32 @@
+Overall Look and Feel of SmartRidge
+===================================
+The oveerall look and feel should be complex yet simple. The buttons will mainly be 2D with a 3D or animation aspect when you hover over the button.
+The website should be loud but also subtle for the user.
+
+Colors
+======
+For SmartRidge, colors expose personality to our customers and represent that we are energetic and here to help.
+These are our color swatches:
+
+- #196275
+- #E0E9EB
+- #25A7D7
+- #76CFEF
+- #D676F9
+- #153B54
+
+Inconography
+============
+We will focus on using icons that have a slight hovering flat design with a animational aspect to it, which will compliment the overall look and feel
+
+Typography
+==========
+We will be using Noto Sans Mono from Google Fonts
+
+Links
+=====
+Links will not be underlined should chnage color when a user hovers or clicks on one
+
+Buttons
+=======
+Buttons will be a flat 2D design and will turn into a hovering animational when clicked or hovered on using the chosen outlined colors above
