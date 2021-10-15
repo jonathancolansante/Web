@@ -50,7 +50,14 @@ td.beta:hover {
 }
 table.beta{
 	background-color:rgb(69, 82, 85);
+}
 
+table.contact{
+		border-top: 10px solid rgb(151, 166, 180);
+		width:1425px;
+		border-bottom: 10px solid rgb(151, 166, 180);
+		border-collapse: collapse;
+	}
 /*	
 body {
 	font-family: : 'Arial';
