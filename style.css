@@ -12,7 +12,20 @@ nav{
 	text-align: center;
 }
 
-
+button {
+	border: none;
+	color: black;
+	padding: 5px 20px;
+	background-color: grey;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 600px 425px;
+	cursor: pointer;
+	font-style: bold;
+	white-space: nowrap
+}
 
 label.menu {
 	color: white;
